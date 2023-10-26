@@ -62,7 +62,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 61,1,Colin Wilson,Delta,1997,240
 62,1,George Lucas,Žvaigždžių karai,1997,208
 63,1,Lois McMaster Bujold,Cetaganda,1997,207
-64,,Donald F. Glut,Imperija kontratakuoja,1997,205
+64,1,Donald F. Glut,Imperija kontratakuoja,1997,205
 65,1,Charles Sheffield,Tarp nakties prisiglaudimų,1997,254
 66,1,James Kahn,Džedajaus sugrįžimas,1997,207
 67,1,Colin Wilson,Raganius,1997,255
@@ -91,7 +91,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 90,1,Vernon Vinge,Liepsnojančios gelmės (2 dalis),1998,256
 91,1,James P. Hogan,Operacija „Protėjas“ (1 dalis),1998,224
 92,1,James P. Hogan,Operacija „Protėjas“ (2 dalis),1998,224
-93,,William R. Forstchen,Aleksandro žiedas,1998,224
+93,1,William R. Forstchen,Aleksandro žiedas,1998,224
 94,1,Poul Anderson,Ugnies laikai,1998,224
 95,1,William R. Forstchen,Mirtinas Gambitas,1998,256
 96,1,Poul Anderson,Jūrų valdovo vaikai,1998,272
@@ -117,9 +117,9 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 116,1,"Larry Niven, Steven Barnes",Svajonių parkas,1998,272
 117,1,Poul Anderson,Laiko labirintai (Ožio daina) ,1998,224
 118,1,Clifford D. Simak,"Šekspyro planeta (Gražuolė, Pūdlio naktis)",1998,224
-119,,Joe Haldeman,Amžinasis karas,1998,224
+119,1,Joe Haldeman,Amžinasis karas,1998,224
 120,1,James Blish,Atgijusios žvaigždės (3 apsakymai) ,1999,224
-121,,Poul Anderson,Laiko skydas,1999,240
+121,1,Poul Anderson,Laiko skydas,1999,240
 122,,Greg Bear,Era (1 dalis),1999,240
 123,,Greg Bear,Era (2 dalis),1999,240
 124,,E.C. Tubb,Gato vėjai (Dirėja) ,1999,240
@@ -255,7 +255,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 254,,Andre Norton,Ledo karūna,2002,224
 255,,Ray Aldridge,Faraono kontraktas,2002,240
 256,,L. Sprague De Camp,Dinozaurų medžiotojai,2002,224
-257,,"Colin Wilson, Net Prickley",Pranašystė,2002,272
+257,1,"Colin Wilson, Net Prickley",Pranašystė,2002,272
 258,,Ray Aldridge,Pasaulio imperatorius,2002,256
 259,1,Aleksandr Gromov,Lemingo metai,2003,272
 260,,"Colin Wilson, Net Prickley",Prasiveržimas,2003,240
