@@ -120,7 +120,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 119,1,Joe Haldeman,Amžinasis karas,1998,224
 120,1,James Blish,Atgijusios žvaigždės (3 apsakymai) ,1999,224
 121,1,Poul Anderson,Laiko skydas,1999,240
-122,,Greg Bear,Era (1 dalis),1999,240
+122,1,Greg Bear,Era (1 dalis),1999,240
 123,1,Greg Bear,Era (2 dalis),1999,240
 124,1,E.C. Tubb,Gato vėjai (Dirėja) ,1999,240
 125,1,Roger Zelazny,Devyni Ambero princai (ir dar 3 apsakymai),1999,224
@@ -234,9 +234,9 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 233,,Piers Anthony,Chtonas,2002,224
 234,1,"Isaac Asimov, Michael Moorcock",Kosmoso upės (Nuolatinio kitimo būsena) ,2002,224
 235,,Ursula K. Le Guin,Tolimiausias krantas (ir dar 2 apsakymai) ,2002,240
-236,,"Gerard Klein, Michael Demuth, Jolie Verlange","Karo dievai (Svetima vasara, Burbulai)",2002,224
+236,1,"Gerard Klein, Michael Demuth, Jolie Verlange","Karo dievai (Svetima vasara, Burbulai)",2002,224
 237,1,Anne McCaffrey,Drakono klajonės,2002,304
-238,,"Piers Anthony, Harlan Ellison, Gordon Dickson","Ftoras (Pasaulių žudikas, Apsiaustas ir lazda)",2002,240
+238,1,"Piers Anthony, Harlan Ellison, Gordon Dickson","Ftoras (Pasaulių žudikas, Apsiaustas ir lazda)",2002,240
 239,1,"Isaac Asimov, Robert A. Heilein",Žvaigždės lyg dulkės (Džeris buvo žmogus),2002,234
 240,,Harry Harrison,Mirties planeta ir žmonijos priešai,2002,272
 241,,"Clifford D. Simak, J. G. Ballard",Likimo įkaitai (Krištolo žmogus) ,2002,224
@@ -313,7 +313,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 312,,Arthur C. Clarke,"Tolimosios žemės dainos, (ir dar 3 apsakymai)",2004,288
 313,1,Dmitrij Skiriuk,Rudens lapinas,2004,320
 314,1,Dmitrij Skiriuk,Kalavijo sutemos,2004,320
-315,,Simon Clark,Karalius kraujas (1 dalis),2004,256
+315,1,Simon Clark,Karalius kraujas (1 dalis),2004,256
 316,1,Simon Clark,Karalius kraujas (2 dalis),2004,272
 317,1,Harry Harrison,Žiema Edene (1 dalis),2004,256
 318,1,Harry Harrison,Žiema Edene (2 dalis ir dar 3 apsakymai) ,2004,240
@@ -371,7 +371,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 370,,Richard A. Knaak,Diablo: kraujo paveldas,2006,320
 371,,Michael Moorcock,Elriko kronikos,2006,256
 372,1,"Viktor Burcev, Andrej Černecov",Šventoji sala,2006,352
-373,,Michael Swanwick,Žemės kaulai,2006,372
+373,1,Michael Swanwick,Žemės kaulai,2006,372
 374,,"Vladimir Vasiljev, Dale Bailey, Sergej Lukjanenko","Visagalio akis (Pasaulio pabaiga, kokią mes ją įsivaizduojame, Negrabaila)",2006,272
 375,,"Barrington J. Bayley, Poul Anderson",Dzen ginklas (Pradžia),2006,272
 376,1,David Gemmell,Kraujo akmuo,2006,320
@@ -404,13 +404,13 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 403,,Aleksej Kalugin,Ne toks tas velnias baisus,2007,320
 404,1,David Gemmell,Paskutinis galios kalavijas,2007,304
 405,,Robert Charles Wilson,Kokonas,2007,416
-406,,"Alan Dean Foster , Alastair Reynolds",Kelionė į Molokiną (Didžioji Marso siena) ,2007,320
+406,1,"Alan Dean Foster , Alastair Reynolds",Kelionė į Molokiną (Didžioji Marso siena) ,2007,320
 407,1,Dan Abnett,Inkvizitorius: ateivių kryžius,2007,320
 408,1,Nancy Kress,Kryžminė ugnis,2007,320
 409,,Sergej Lukjanenko,Žvaigždės - šalti žaislai,2007,336
 410,,Richard A. Knaak,Diablo: voro mėnulis,2007,320
 411,,Vonda N. McIntyre,Sapnų gyvatė,2007,320
-412,,Jack Williamson,Demonų mėnulis,2007,320
+412,1,Jack Williamson,Demonų mėnulis,2007,320
 413,1,Sergej Lukjanenko,Žvaigždžių šešėlis,2007,304
 414,1,Dan Abnett,Inkvizitorius: raganų kryžius,2007,315
 415,1,Tim Lebbon,Sutemos,2007,352
@@ -428,7 +428,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 427,1,Brian Lumley,Faraono priešas,2008,304
 428,,Steve White,Demonų vartai,2008,288
 429,1,Aleksandr Gromov,"Žingsnis į kairę, žingsnis į dešinę",2008,352
-430,,Tim Lebbon,Aušra,2008,352
+430,1,Tim Lebbon,Aušra,2008,352
 431,1,"Colin Wilson, Harry Turtledove","Sąmonės parazitai, (Žemumose)",2008,320
 432,,Sergej Lukjanenko,Švarraštis,2008,304
 433,,Clifford D. Simak,"Dievų valia (Begaliniai pasauliai, Imigrantas)",2008,304
@@ -451,7 +451,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 450,,Richard Morgan,Įniršio formos,2009,432
 451,,Gary Gibson,Angelų stotys,2009,320
 452,,Tobias S. Buckell,Krištolinis lietus,2009,320
-453,,Fred Saberhagen,Brolis Berserkeris (Berserkerio irštva),2009,320
+453,1,Fred Saberhagen,Brolis Berserkeris (Berserkerio irštva),2009,320
 454,,Poul Anderson,"Tau faktorius (Epilogas, Žvaigždžių rūkas)",2009,304
 455,,Stanislaw Lem,Žlugimas,2009,320
 456,,W. Michael Gear,Žvaigždžių smūgis,2009,368
@@ -460,7 +460,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 459,,John Meaney,Kaulų daina,2009,320
 460,,Charles Sheffield,Protų samplaika,2009,320
 461,,Roger MacBride Allen,Perskelta sfera,2009,320
-462,,Michael Skott Rohan,Paskui aušrą,2009,304
+462,1,Michael Skott Rohan,Paskui aušrą,2009,304
 463,,Isaac Asimov,Fondo preliudija,2009,304
 464,,Vernor Vinge,Kur baigiasi vaivorykštės,2009,352
 465,,Neal Asher,Pradorų palydovas,2009,320
@@ -492,7 +492,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 491,,Norman Spinrad,Geležinis sapnas,2012,272
 492,,Harry Turtledove,Dingęs legionas,2013,336
 493,,Harry Harrison,Plieninės žiurkės sugrįžimas,2013,240
-494,,John Gregory Betancourt,Ambero aušra,2013,224
+494,1,John Gregory Betancourt,Ambero aušra,2013,224
 495,,Sergej Antonov,Stabilizatorius. Minskas 2041,2014,284
 496,,John Gregory Betancourt,Chaosas ir Amberas,2014,272
 497,1,Philip K. Dick,Žmogus aukštoje pilyje,2014,254
