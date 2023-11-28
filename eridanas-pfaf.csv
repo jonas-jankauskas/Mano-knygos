@@ -100,7 +100,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 99,,Jack L. Chalker,Viduriniosios tamsos valdovai,1998,256
 100,1,Jack L. Chalker,"""Griausmo"" piratai",1998,224
 101,1,Jack L. Chalker,Audros kariai,1998,288
-102,užs.,Jack L. Chalker,Kankinių kaukės,1998,288
+102,1,Jack L. Chalker,Kankinių kaukės,1998,288
 103,,Harry Harrison,Sugrįžimas į mirties planetą,1998,208
 104,1,Harry Harrison,Mirties planeta dievų kelyje,1998,208
 105,1,Alan Dean Foster,Ledo planeta,1998,224
@@ -121,7 +121,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 120,1,James Blish,Atgijusios žvaigždės (3 apsakymai) ,1999,224
 121,1,Poul Anderson,Laiko skydas,1999,240
 122,,Greg Bear,Era (1 dalis),1999,240
-123,užs.,Greg Bear,Era (2 dalis),1999,240
+123,1,Greg Bear,Era (2 dalis),1999,240
 124,1,E.C. Tubb,Gato vėjai (Dirėja) ,1999,240
 125,1,Roger Zelazny,Devyni Ambero princai (ir dar 3 apsakymai),1999,224
 126,1,Roger Zelazny,Avalono ginklai(Hokusajo tapyti 24 Fudzijamos vaizdai),1999,224
@@ -157,7 +157,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 156,1,Clifford D. Simak,"Žvaigždžių paveldas (Šokančių elnių grota, Tikslo karta)",2000,240
 157,,Allen Roger MacBride,Garbės fakelas,2000,256
 158,1,Marion Zimmer Bradley,Kasandra (1 dalis),2000,256
-159,užs.,Marion Zimmer Bradley,Kasandra (2 dalis),2000,256
+159,1,Marion Zimmer Bradley,Kasandra (2 dalis),2000,256
 160,,Andre Norton,Maro laivas,2000,240
 161,1,Bill Baldwin,Vairininkas,2000,256
 162,,Charles Sheffield,Vasaros potvynis,2000,240
@@ -270,13 +270,13 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 269,,David Gemmell,Pašalietis,2003,256
 270,,Bill Baldwin,Galaktikos konvojus,2003,304
 271,,Glen Cook,Sidabrinis smaigas,2003,272
-272,užs.,Poul Anderson,Žemės imperijos agentas,2003,256
-273,užs.,John Barnes,Erdvėlaikio spąstuose,2003,256
-274,užs.,Marek Oramus,Miegantys nugalėtojai,2003,224
+272,1,Poul Anderson,Žemės imperijos agentas,2003,256
+273,1,John Barnes,Erdvėlaikio spąstuose,2003,256
+274,1,Marek Oramus,Miegantys nugalėtojai,2003,224
 275,,Harry Harrison,Į vakarus nuo Edeno (1 dalis),2003,240
 276,,Harry Harrison,Į vakarus nuo Edeno (2 dalis),2003,272
 277,1,Mike Resnick,Našliadirbys,2003,224
-278,užs.,Eric Brown,Prietema,2003,256
+278,1,Eric Brown,Prietema,2003,256
 279,1,Glen Cook,Plieniniai sapnai,2003,288
 280,,Clifford D. Simak,"Tai, kas lemta",2003,224
 281,,"Arkadij Strugackij, Boris Strugackij",Gyvenama sala,2003,288
@@ -315,21 +315,21 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 314,1,Dmitrij Skiriuk,Kalavijo sutemos,2004,320
 315,,Simon Clark,Karalius kraujas (1 dalis),2004,256
 316,1,Simon Clark,Karalius kraujas (2 dalis),2004,272
-317,užs.,Harry Harrison,Žiema Edene (1 dalis),2004,256
+317,1,Harry Harrison,Žiema Edene (1 dalis),2004,256
 318,1,Harry Harrison,Žiema Edene (2 dalis ir dar 3 apsakymai) ,2004,240
 319,1,Sviatoslav Loginov,Amžinoji šviesa,2004,252
 320,,David Gemmell,Mirties įbrolis,2004,304
 321,1,David Gemmell,Baltasis vilkas,2005,320
-322,užs.,Sergej Lukjanenko,Šalčio krantai,2005,320
+322,1,Sergej Lukjanenko,Šalčio krantai,2005,320
 323,,Sergej Lukjanenko,Prieš rytą,2005,320
 324,1,Mike Resnick,"Pasveikęs našliadirbys, (7 žvilgsniai į Oldovajaus tarpeklį)",2005,240
 325,1,Harry Harrison,Sugrįžimas į edeną,2005,352
-326,užs.,Clifford D. Simak,Mastodonija (Atvirkštinė evoliucija),2005,240
+326,1,Clifford D. Simak,Mastodonija (Atvirkštinė evoliucija),2005,240
 327,1,Leonid Aliochin,Puolę multiversumo angelai (1 dalis),2005,304
 328,1,Leonid Aliochin,Puolę multiversumo angelai (2 dalis),2005,320
 329,1,Vladimir Vasiljev,Laukinių sunkvežimių medžioklė,2005,320
 330,,Lois McMaster Bujold,Sielų žiedas,2005,288
-331,užs.,Connie Willis,Pasaulio pabaigos knyga (1 dalis),2005,320
+331,1,Connie Willis,Pasaulio pabaigos knyga (1 dalis),2005,320
 332,1,Connie Willis,Pasaulio pabaigos knyga (2 dalis),2005,320
 333,,Alastair Reynolds,Apreiškimų erdvė (1 dalis),2005,304
 334,,Alastair Reynolds,Apreiškimų erdvė (2 dalis),2005,272
@@ -339,14 +339,14 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 338,1,Tim Powers,Vakarų širdis,2005,320
 339,1,Richard K. Morgan,Skaitmeninės sąmonės (1 dalis),2005,272
 340,,Richard K. Morgan,Skaitmeninės sąmonės (2 dalis),2005,272
-341,užs.,Barrington J. Bayley,Žvaigždžių virusas (Didysis ratas),2005,256
+341,1,Barrington J. Bayley,Žvaigždžių virusas (Didysis ratas),2005,256
 342,1,Andrej Valentinov,Dezertyras,2005,320
 343,,Sergej Lukjanenko,Genomas,2006,320
 344,,"Robert Charles Wilson, Samuel R. Delany",Biosfera (Žvaigždžių duobė),2005,256
 345,,Elizabeth A. Lynn,Sardonikso tinklas (1 dalis),2005,288
-346,užs.,Elizabeth A. Lynn,Sardonikso tinklas (2 dalis),2005,272
-347,užs.,Aleksej Baron,Vyresni už mus,2005,320
-348,užs.,Ken Hood,Demono kardas,2005,320
+346,1,Elizabeth A. Lynn,Sardonikso tinklas (2 dalis),2005,272
+347,1,Aleksej Baron,Vyresni už mus,2005,320
+348,1,Ken Hood,Demono kardas,2005,320
 349,,Glen Cook,Drakonas niekada nemiega,2005,368
 350,,Clifford D. Simak,Blogio irštva,2005,272
 351,,"Francis Carsac, Douglas Adams, Kiril Benediktov","Kosmoso robinzonai, (Zafodas lošia saugiai, Šeštosios saulės aušra)",2005,304
@@ -379,7 +379,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 378,,Glen Cook,Tamsa - tai ji (1 dalis),2006,272
 379,1,Glen Cook,Tamsa - tai ji (2 dalis),2006,288
 380,1,"Arkadij Strugackij, Boris Strugackij, Andrej Pavluchin",Bangos slopina vėją (Jie) ,2006,256
-381,užs.,Michael Moorcock,Mieganti burtininkė,2006,388
+381,1,Michael Moorcock,Mieganti burtininkė,2006,388
 382,,Jack L. Chalker,Šokančių dievų upė,2006,320
 383,1,Aleksej Pechov,Mantikoros ženklas (1 dalis),2006,272
 384,1,Aleksej Pechov,Mantikoros ženklas (2 dalis),2006,284
@@ -389,7 +389,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 388,1,"James White, Alan E. Nourse, George R. R. Martin, Terry Dawling","Kosminė ligoninė (Per saulėtąją pusę, Akmeninis miestas, Likvidatoriai)",2007,256
 389,,Richard K. Morgan,Pražuvę angelai,2007,384
 390,1,Timothy Zahn,Užkariautojo pasirinkimas,2007,384
-391,užs.,Vadim Panov,Vedliai kryžkelėje,2007,384
+391,1,Vadim Panov,Vedliai kryžkelėje,2007,384
 392,,Richard A. Knaak,Diablo: šešėlio spąstai,2007,320
 393,1,Michael McCollum,Antario aušra,2007,272
 394,1,Glen Cook,Šaltos varinės ašaros,2007,272
@@ -405,19 +405,19 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 404,1,David Gemmell,Paskutinis galios kalavijas,2007,304
 405,,Robert Charles Wilson,Kokonas,2007,416
 406,,"Alan Dean Foster , Alastair Reynolds",Kelionė į Molokiną (Didžioji Marso siena) ,2007,320
-407,užs.,Dan Abnett,Inkvizitorius: ateivių kryžius,2007,320
-408,užs.,Nancy Kress,Kryžminė ugnis,2007,320
+407,1,Dan Abnett,Inkvizitorius: ateivių kryžius,2007,320
+408,1,Nancy Kress,Kryžminė ugnis,2007,320
 409,,Sergej Lukjanenko,Žvaigždės - šalti žaislai,2007,336
 410,,Richard A. Knaak,Diablo: voro mėnulis,2007,320
 411,,Vonda N. McIntyre,Sapnų gyvatė,2007,320
 412,,Jack Williamson,Demonų mėnulis,2007,320
-413,užs.,Sergej Lukjanenko,Žvaigždžių šešėlis,2007,304
-414,užs.,Dan Abnett,Inkvizitorius: raganų kryžius,2007,315
-415,užs.,Tim Lebbon,Sutemos,2007,352
-416,užs.,Philip Jose Farmer,Nuosavas kosmosas  (Pasaulio vartai),2007,320
-417,užs.,Robert J. Sawyer,Skaičiuojantis dievas,2007,304
-418,užs.,Neal Asher,Odlupys,2007,352
-419,užs.,Timothy Zahn,Žvaigždžių raiteliai,2008,320
+413,1,Sergej Lukjanenko,Žvaigždžių šešėlis,2007,304
+414,1,Dan Abnett,Inkvizitorius: raganų kryžius,2007,315
+415,1,Tim Lebbon,Sutemos,2007,352
+416,1,Philip Jose Farmer,Nuosavas kosmosas  (Pasaulio vartai),2007,320
+417,1,Robert J. Sawyer,Skaičiuojantis dievas,2007,304
+418,1,Neal Asher,Odlupys,2007,352
+419,1,Timothy Zahn,Žvaigždžių raiteliai,2008,320
 420,1,Larry Niven,Žiedinio pasaulio inžinieriai,2008,352
 421,,Clifford D. Simak,Svečiai (Įkalintas akmenyje),2008,288
 422,,Dan Abnett,Inkvizitorius: eretikų kryžius,2008,336
@@ -476,7 +476,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 475,1,Gary Gibson,Atsispiriant traukai,2010,320
 476,,Harry Turtledove,Bizantijos agentas,2010,320
 477,,Michael Moorcock,"Brangakmenis kaukolėje (Pamišusio dievo amuletas,  Aušros kalavijas)",2010,368
-478,užs.,Charles Stross,Singuliarumo dangus,2010,320
+478,1,Charles Stross,Singuliarumo dangus,2010,320
 479,,Eve Forward,Animistas,2010,304
 480,,Julij Burkin,Gėlės mūsų pelenuose,2011,304
 481,,Julij Burkin,Smaragdinės rasos,2011,304
