@@ -242,13 +242,13 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 241,,"Clifford D. Simak, J. G. Ballard",Likimo įkaitai (Krištolo žmogus) ,2002,224
 242,,Colin Wilson,Citadelė,2002,288
 243,,Frank Herbert,Kopa (1 dalis),2002,304
-244,,Frank Herbert,Kopa (2 dalis),2002,288
+244,užs.,Frank Herbert,Kopa (2 dalis),2002,288
 245,1,"Michael Moorcock, Harlan Ellison","Amžinybės ritualai (Pabėgimas į žvaigždes, Regėjimas)",2002,208
 246,1,Jack L. Chalker,Velniškas sandėris,2002,288
 247,,William Dietz,Tremties planeta,2002,240
 248,1,Stephen L. Burns,Kūnas ir sidabras,2002,288
 249,,"Colin Wilson, Net Prickley",Pasiuntinys,2002,288
-250,,Sergej Lukjanenko,Iliuzijų imperatoriai,2002,240
+250,užs.,Sergej Lukjanenko,Iliuzijų imperatoriai,2002,240
 251,1,William Dietz,Laisvės planeta,2002,224
 252,1,Aleksej Kalugin,Tamsybių atspindžiai,2002,240
 253,1,"Edmond Hamilton, Leigh Brackett, Robert Sheckley","Žvaigždžių karaliai (Šešėliai, Valties maištas, Voverė rate)",2002,224
@@ -258,7 +258,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 257,1,"Colin Wilson, Net Prickley",Pranašystė,2002,272
 258,1,Ray Aldridge,Pasaulio imperatorius,2002,256
 259,1,Aleksandr Gromov,Lemingo metai,2003,272
-260,,"Colin Wilson, Net Prickley",Prasiveržimas,2003,240
+260,užs.,"Colin Wilson, Net Prickley",Prasiveržimas,2003,240
 261,1,Ray Aldridge,Mechaninis orfėjas,2003,288
 262,1,John Brosnan,Padangių lordai,2003,288
 263,1,John Brosnan,Padangių lordų karas,2003,224
@@ -267,8 +267,8 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 266,1,William Dietz,Naujasis legionas,2003,320
 267,1,Viktor Burcev,Iblio veidrodis,2003,288
 268,1,John Brosnan,Padangių lordų žūtis,2003,240
-269,,David Gemmell,Pašalietis,2003,256
-270,,Bill Baldwin,Galaktikos konvojus,2003,304
+269,užs.,David Gemmell,Pašalietis,2003,256
+270,užs.,Bill Baldwin,Galaktikos konvojus,2003,304
 271,,Glen Cook,Sidabrinis smaigas,2003,272
 272,1,Poul Anderson,Žemės imperijos agentas,2003,256
 273,1,John Barnes,Erdvėlaikio spąstuose,2003,256
@@ -279,14 +279,14 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 278,1,Eric Brown,Prietema,2003,256
 279,1,Glen Cook,Plieniniai sapnai,2003,288
 280,,Clifford D. Simak,"Tai, kas lemta",2003,224
-281,,"Arkadij Strugackij, Boris Strugackij",Gyvenama sala,2003,288
+281,užs.,"Arkadij Strugackij, Boris Strugackij",Gyvenama sala,2003,288
 282,1,Alan Dean Foster,Apgaulingas veidrodis,2003,240
 283,,David Gemmell,Vilko irštva,2003,272
 284,,"Lloyd Biggle Jr., Robert Silverberg",Paminklas (Gimęs su mirusiais),2003,272
 285,1,"Lawrence Watt-Evans, John Varley","Tamsiosios pusės miestas (Sudie, Robinzonai Kruzai)",2003,256
 286,,Timothy Zahn,„Ikaro“ medžioklė,2003,320
 287,1,"Mike Resnick, Robert Reed",Atgimęs našliadirbys (Garbės svečias),2003,240
-288,,Christopher Rowley,Žvaigždžių kūjis,2003,272
+288,užs.,Christopher Rowley,Žvaigždžių kūjis,2003,272
 289,1,Aleksandr Gromov,Tūkstantis ir viena diena,2004,240
 290,,Sergej Lukjanenko,Nakties sargyba,2004,320
 291,,Neal Stephenson,Lavina (1 dalis),2004,240
@@ -301,7 +301,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 300,1,Jack L. Chalker,Srauto ir užuovėjų dvasios,2004,240
 301,1,Jack L. Chalker,Srauto ir užuovėjų imperijos,2004,240
 302,,Sergej Lukjanenko,Sutemų sargyba,2004,320
-303,,Philip Jose Farmer,Nemąstanti kaukė,2004,272
+303,užs.,Philip Jose Farmer,Nemąstanti kaukė,2004,272
 304,1,Nancy Kress,Svetima šviesa,2004,304
 305,1,Bob Shaw,"Žvaigždžių vainikas, (3 apsakymai)",2004,256
 306,,Sergej Lukjanenko,Spektras (1 dalis),2004,288
@@ -310,7 +310,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 309,,Robert Sheckley,Omega (ir dar 4 apsakymai),2004,240
 310,1,David Gemmell,Druso kronikos,2004,320
 311,1,Robert Charles Wilson,Chronolitai,2004,240
-312,,Arthur C. Clarke,"Tolimosios žemės dainos, (ir dar 3 apsakymai)",2004,288
+312,užs.,Arthur C. Clarke,"Tolimosios žemės dainos, (ir dar 3 apsakymai)",2004,288
 313,1,Dmitrij Skiriuk,Rudens lapinas,2004,320
 314,1,Dmitrij Skiriuk,Kalavijo sutemos,2004,320
 315,1,Simon Clark,Karalius kraujas (1 dalis),2004,256
@@ -478,7 +478,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 477,,Michael Moorcock,"Brangakmenis kaukolėje (Pamišusio dievo amuletas,  Aušros kalavijas)",2010,368
 478,1,Charles Stross,Singuliarumo dangus,2010,320
 479,užs.,Eve Forward,Animistas,2010,304
-480,,Julij Burkin,Gėlės mūsų pelenuose,2011,304
+480,užs.,Julij Burkin,Gėlės mūsų pelenuose,2011,304
 481,,Julij Burkin,Smaragdinės rasos,2011,304
 482,,Tim Powers,Magiškos vilnys,2011,320
 483,,"Larry Niven, Jerry Pournelle, Michael Flynn",Puolę angelai,2011,368
