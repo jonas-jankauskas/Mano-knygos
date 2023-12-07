@@ -163,7 +163,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 162,užs.,Charles Sheffield,Vasaros potvynis,2000,240
 163,užs.,Charles Sheffield,Divergencija,2000,240
 164,1,"Colin Kapp, Bob Shaw, Wolfram Kober, Jacek Sawaszkiewicz","Chaoso ginklas (Amfiteatras, Karas, Mes leidome jiems išskristi)",2000,240
-165,,"Isaac Asimov, John Varley, Ian Watson, J. G. Ballard","Akmenėlis danguje (Antskrydis, Narvas mirčiai, 13 į Kentaurą)",2000,240
+165,užs.,"Isaac Asimov, John Varley, Ian Watson, J. G. Ballard","Akmenėlis danguje (Antskrydis, Narvas mirčiai, 13 į Kentaurą)",2000,240
 166,1,Diann Thornley,Kosmoso vaikas,2000,240
 167,užs.,"Barrington J. Bayley, Gene Wolfe, Poul Anderson","Amžinybės ramsčiai (Vilkatas, Kūno dalybos)",2000,240
 168,užs.,Allen Steele,Jericho iteracija,2000,240
@@ -214,7 +214,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 213,1,Philip Jose Farmer,Akmeninis dievas,2001,240
 214,,"Roger Zelazny, Thomas T. Thomas",Lokio kaukė,2001,272
 215,užs.,"Harry Harrison, Gordon Dickson, Dmitrij Skiriuk","Gelbėjimosi laivas (Kai dievai patys gieda ditirambus, Taupyklė)",2001,224
-216,,Gregory Benford,Didžioji dangaus upė,2001,320
+216,užs.,Gregory Benford,Didžioji dangaus upė,2001,320
 217,1,Terry Pratchett,Šviesa fantastiška,2000,224
 218,1,Robert Silverberg,Žmogus labirinte (ir dar 2 apsakymai),2001,224
 219,1,Viktor Burcev,Deimantiniai nervai,2001,288
@@ -230,7 +230,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 229,,Ursula K. Le Guin,Atuano kapai (ir dar 3 apsakymai),2002,224
 230,užs.,Clifford D. Simak,"Galaktikos bičiuliai, (7 apsakymai)",2002,240
 231,1,Gregory Benford,Šviesos vandenynas,2002,320
-232,,Anne McCaffrey,Drakono skrydis,2002,256
+232,užs.,Anne McCaffrey,Drakono skrydis,2002,256
 233,užs.,Piers Anthony,Chtonas,2002,224
 234,1,"Isaac Asimov, Michael Moorcock",Kosmoso upės (Nuolatinio kitimo būsena) ,2002,224
 235,,Ursula K. Le Guin,Tolimiausias krantas (ir dar 2 apsakymai) ,2002,240
@@ -245,7 +245,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 244,1,Frank Herbert,Kopa (2 dalis),2002,288
 245,1,"Michael Moorcock, Harlan Ellison","Amžinybės ritualai (Pabėgimas į žvaigždes, Regėjimas)",2002,208
 246,1,Jack L. Chalker,Velniškas sandėris,2002,288
-247,,William Dietz,Tremties planeta,2002,240
+247,užs.,William Dietz,Tremties planeta,2002,240
 248,1,Stephen L. Burns,Kūnas ir sidabras,2002,288
 249,,"Colin Wilson, Net Prickley",Pasiuntinys,2002,288
 250,1,Sergej Lukjanenko,Iliuzijų imperatoriai,2002,240
@@ -284,7 +284,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 283,,David Gemmell,Vilko irštva,2003,272
 284,,"Lloyd Biggle Jr., Robert Silverberg",Paminklas (Gimęs su mirusiais),2003,272
 285,1,"Lawrence Watt-Evans, John Varley","Tamsiosios pusės miestas (Sudie, Robinzonai Kruzai)",2003,256
-286,,Timothy Zahn,„Ikaro“ medžioklė,2003,320
+286,užs.,Timothy Zahn,„Ikaro“ medžioklė,2003,320
 287,1,"Mike Resnick, Robert Reed",Atgimęs našliadirbys (Garbės svečias),2003,240
 288,1,Christopher Rowley,Žvaigždžių kūjis,2003,272
 289,1,Aleksandr Gromov,Tūkstantis ir viena diena,2004,240
@@ -353,7 +353,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 352,užs.,Neal Asher,Tinklo įkaitas,2005,378
 353,1,Doris Piserchia,Erdvėvaikšta,2006,256
 354,,"Arkadij Strugackij, Boris Strugackij",Vabalas skruzdėlyne (5 šaukšteliai eleksyro),2006,240
-355,,Vadim Panov,Maskvos klubas,2006,368
+355,užs.,Vadim Panov,Maskvos klubas,2006,368
 356,,William R. Forstchen,Pražuvęs pulkas,2006,352
 357,1,Sergej Lukjanenko,Juodraštis,2006,320
 358,1,"Mike Resnick, Rodrigo Garcia y Robertson",Juodoji ledi (Ilga kelionė namo),2006,304
@@ -365,7 +365,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 364,1,Andreas Eschbach,Skaitmeninis Jėzus: Antra knyga,2006,288
 365,,David Gemmell,Vilkas šešėlyje,2006,304
 366,,Colin Wilson,Filosofinis akmuo,2006,272
-367,,Stanislaw Lem,Edenas,2006,272
+367,užs.,Stanislaw Lem,Edenas,2006,272
 368,,David Gemmell,Stebuklingieji Sipstrassi,2006,256
 369,1,Sergej Lukjanenko,Paskutinė sargyba,2006,320
 370,,Richard A. Knaak,Diablo: kraujo paveldas,2006,320
@@ -380,7 +380,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 379,1,Glen Cook,Tamsa - tai ji (2 dalis),2006,288
 380,1,"Arkadij Strugackij, Boris Strugackij, Andrej Pavluchin",Bangos slopina vėją (Jie) ,2006,256
 381,1,Michael Moorcock,Mieganti burtininkė,2006,388
-382,,Jack L. Chalker,Šokančių dievų upė,2006,320
+382,užs.,Jack L. Chalker,Šokančių dievų upė,2006,320
 383,1,Aleksej Pechov,Mantikoros ženklas (1 dalis),2006,272
 384,1,Aleksej Pechov,Mantikoros ženklas (2 dalis),2006,284
 385,1,Timothy Zahn,Užkariautojo paveldas,2007,320
@@ -400,7 +400,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 399,1,"William R. Forstchen, Ben Bova",Amžinoji sąjunga (2 dalis ir Olimpo kalnas),2007,304
 400,užs.,Michael McCollum,Šuolis į Antarį,2007,288
 401,1,Ken MacLeod,Pažinti pasaulį,2007,320
-402,,David Gemmell,Šmėklų karalius,2007,288
+402,užs.,David Gemmell,Šmėklų karalius,2007,288
 403,,Aleksej Kalugin,Ne toks tas velnias baisus,2007,320
 404,1,David Gemmell,Paskutinis galios kalavijas,2007,304
 405,,Robert Charles Wilson,Kokonas,2007,416
