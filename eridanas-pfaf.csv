@@ -140,8 +140,8 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 139,1,Robert Asprin,Blėnių vežėčios,1999,256
 140,1,Colin Wilson,Kosmoso vampyrai,1999,240
 141,1,Jack L. Chalker,Demonai vaivorykštės juostoje,1999,256
-142,užs.,Jack L. Chalker,Bėgimas į chaoso ištakas,1999,240
-143,užs.,Jack L. Chalker,Devyniasdešimt trilijonų faustų,1999,288
+142,1,Jack L. Chalker,Bėgimas į chaoso ištakas,1999,240
+143,1,Jack L. Chalker,Devyniasdešimt trilijonų faustų,1999,288
 144,1,Ian Watson,Kosmoso inkvizitoriai,1999,224
 145,1,Ian Watson,Inkvizitoriaus misija,1999,208
 146,1,Harry Harrison,Mirties planeta ir pragaro išperos,1999,272
@@ -150,23 +150,23 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 149,1,"Colin Kapp, Harlan Ellison, Robert Silverberg","Chaoso formos (Aš neturiu burnos, bet…, Nakties sparnai)",1999,220
 150,1,Timothy Zahn,Juodieji smogikai,1999,240
 151,1,Clifford D. Simak,Projektas „Popiežius“,1999,240
-152,užs.,William Dietz,Prakeiktųjų legionas,2000,288
+152,1,William Dietz,Prakeiktųjų legionas,2000,288
 153,1,"Frederick Pohl, Jack Williamson",Laiko dainiai,2000,256
 154,2,Lawrence Watt-Evans,Denerio skeveldros,2000,240
-155,užs.,Andre Norton,"Kosmoso sargasai (Visos katės pilkos, Pelėkautai)",2000,224
+155,1,Andre Norton,"Kosmoso sargasai (Visos katės pilkos, Pelėkautai)",2000,224
 156,1,Clifford D. Simak,"Žvaigždžių paveldas (Šokančių elnių grota, Tikslo karta)",2000,240
 157,užs.,Allen Roger MacBride,Garbės fakelas,2000,256
 158,1,Marion Zimmer Bradley,Kasandra (1 dalis),2000,256
 159,1,Marion Zimmer Bradley,Kasandra (2 dalis),2000,256
 160,užs.,Andre Norton,Maro laivas,2000,240
 161,1,Bill Baldwin,Vairininkas,2000,256
-162,užs.,Charles Sheffield,Vasaros potvynis,2000,240
-163,užs.,Charles Sheffield,Divergencija,2000,240
+162,1,Charles Sheffield,Vasaros potvynis,2000,240
+163,1,Charles Sheffield,Divergencija,2000,240
 164,1,"Colin Kapp, Bob Shaw, Wolfram Kober, Jacek Sawaszkiewicz","Chaoso ginklas (Amfiteatras, Karas, Mes leidome jiems išskristi)",2000,240
 165,užs.,"Isaac Asimov, John Varley, Ian Watson, J. G. Ballard","Akmenėlis danguje (Antskrydis, Narvas mirčiai, 13 į Kentaurą)",2000,240
 166,1,Diann Thornley,Kosmoso vaikas,2000,240
-167,užs.,"Barrington J. Bayley, Gene Wolfe, Poul Anderson","Amžinybės ramsčiai (Vilkatas, Kūno dalybos)",2000,240
-168,užs.,Allen Steele,Jericho iteracija,2000,240
+167,1,"Barrington J. Bayley, Gene Wolfe, Poul Anderson","Amžinybės ramsčiai (Vilkatas, Kūno dalybos)",2000,240
+168,1,Allen Steele,Jericho iteracija,2000,240
 169,1,Francis Carsac,Visatos ateiviai (Šis pasaulis mūsų),2000,288
 170,,Robert E. Howard,Konanas,2000,224
 171,1,William Tenn,Sienų žmonės,2000,224
@@ -188,7 +188,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 187,1,"Roger Zelazny, Larry Niven",Mirusiųjų sala (Saulės sistemos pakraštyje),2000,240
 188,1,"Gerard Klein, Larry Niven",Žvaigždžių gambitas (ir dar 3 apsakymai),2000,224
 189,1,John E. Stith,Užmaršties salonas,2001,240
-190,užs.,"Eric Brown, Užsienio fantastika",Žemės paveldėtojai (ir dar 8 apsakymai),2001,240
+190,1,"Eric Brown, Užsienio fantastika",Žemės paveldėtojai (ir dar 8 apsakymai),2001,240
 191,1,"Margaret Weis, Don Perrin",Kiborgo misija,2001,320
 192,1,Sergej Lukjanenko,Atspindžių labirintas,2001,288
 193,1,"Chris Bunch, Andre Norton",Rojaus medžioklė (Tegyvuoja lordas Koras!),2001,240
@@ -201,7 +201,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 200,1,Vernor Vinge,Gelmė danguje (1 dalis),2001,256
 201,1,Vernor Vinge,Gelmė danguje (2 dalis),2001,256
 202,1,Vernor Vinge,Gelmė danguje (3 dalis),2001,256
-203,užs.,Paul Cook,Saulės tvirtovė,2001,288
+203,1,Paul Cook,Saulės tvirtovė,2001,288
 204,,Harry Harrison,Plieninė žiurkė spąstuose,2001,240
 205,1,Alan Dean Foster ,Tranksų visata,2001,240
 206,1,Robert J. Sawyer,Mirtinas Eksperimentas,2001,272
@@ -231,7 +231,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 230,užs.,Clifford D. Simak,"Galaktikos bičiuliai, (7 apsakymai)",2002,240
 231,1,Gregory Benford,Šviesos vandenynas,2002,320
 232,užs.,Anne McCaffrey,Drakono skrydis,2002,256
-233,užs.,Piers Anthony,Chtonas,2002,224
+233,1,Piers Anthony,Chtonas,2002,224
 234,1,"Isaac Asimov, Michael Moorcock",Kosmoso upės (Nuolatinio kitimo būsena) ,2002,224
 235,,Ursula K. Le Guin,Tolimiausias krantas (ir dar 2 apsakymai) ,2002,240
 236,1,"Gerard Klein, Michael Demuth, Jolie Verlange","Karo dievai (Svetima vasara, Burbulai)",2002,224
@@ -350,7 +350,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 349,,Glen Cook,Drakonas niekada nemiega,2005,368
 350,,Clifford D. Simak,Blogio irštva,2005,272
 351,,"Francis Carsac, Douglas Adams, Kiril Benediktov","Kosmoso robinzonai, (Zafodas lošia saugiai, Šeštosios saulės aušra)",2005,304
-352,užs.,Neal Asher,Tinklo įkaitas,2005,378
+352,1,Neal Asher,Tinklo įkaitas,2005,378
 353,1,Doris Piserchia,Erdvėvaikšta,2006,256
 354,,"Arkadij Strugackij, Boris Strugackij",Vabalas skruzdėlyne (5 šaukšteliai eleksyro),2006,240
 355,užs.,Vadim Panov,Maskvos klubas,2006,368
@@ -430,11 +430,11 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 429,1,Aleksandr Gromov,"Žingsnis į kairę, žingsnis į dešinę",2008,352
 430,1,Tim Lebbon,Aušra,2008,352
 431,1,"Colin Wilson, Harry Turtledove","Sąmonės parazitai, (Žemumose)",2008,320
-432,užs.,Sergej Lukjanenko,Švarraštis,2008,304
+432,1,Sergej Lukjanenko,Švarraštis,2008,304
 433,1,Clifford D. Simak,"Dievų valia (Begaliniai pasauliai, Imigrantas)",2008,304
 434,,Dave Duncan,Paženklinti prakeiksmu,2008,400
 435,1,Dave Duncan,Auksuota grandinė,2008,320
-436,užs.,"Larry Niven, Jerry Pournelle, Steven Barnes",Heoroto paveldas,2008,368
+436,1,"Larry Niven, Jerry Pournelle, Steven Barnes",Heoroto paveldas,2008,368
 437,1,Steve White,Titanų kalvė,2008,272
 438,1,Neal Asher,Valstybės siena,2008,384
 439,1,Fred Saberhagen,Plieninis Šiva,2008,288
