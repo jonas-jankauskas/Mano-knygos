@@ -158,11 +158,11 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 157,užs.,Allen Roger MacBride,Garbės fakelas,2000,256
 158,1,Marion Zimmer Bradley,Kasandra (1 dalis),2000,256
 159,1,Marion Zimmer Bradley,Kasandra (2 dalis),2000,256
-160,užs.,Andre Norton,Maro laivas,2000,240
+160,1,Andre Norton,Maro laivas,2000,240
 161,1,Bill Baldwin,Vairininkas,2000,256
 162,1,Charles Sheffield,Vasaros potvynis,2000,240
 163,1,Charles Sheffield,Divergencija,2000,240
-164,1,"Colin Kapp, Bob Shaw, Wolfram Kober, Jacek Sawaszkiewicz","Chaoso ginklas (Amfiteatras, Karas, Mes leidome jiems išskristi)",2000,240
+164,2,"Colin Kapp, Bob Shaw, Wolfram Kober, Jacek Sawaszkiewicz","Chaoso ginklas (Amfiteatras, Karas, Mes leidome jiems išskristi)",2000,240
 165,užs.,"Isaac Asimov, John Varley, Ian Watson, J. G. Ballard","Akmenėlis danguje (Antskrydis, Narvas mirčiai, 13 į Kentaurą)",2000,240
 166,1,Diann Thornley,Kosmoso vaikas,2000,240
 167,1,"Barrington J. Bayley, Gene Wolfe, Poul Anderson","Amžinybės ramsčiai (Vilkatas, Kūno dalybos)",2000,240
@@ -173,13 +173,13 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 172,1,"Fred Saberhagen, David Brin, Walter Miller, Jr., Robert Silverberg","Mirties mašina (Krištolinės sferos, Kantata Leibovičiui, Toks tokį pažino)",2000,240
 173,1,Henry Lion Oldie,Aštuntojo įsakymo posūniai (Senelio-vampyro pasakos),2000,224
 174,1,John E. Stith,Įsibrovėlis,2000,240
-175,užs.,Timothy Zahn,Slaptieji pasauliai,2000,272
+175,1,Timothy Zahn,Slaptieji pasauliai,2000,272
 176,1,Douglas Adams,"Keliautojo kosmostopu vadovas po galaktiką (Sudie, ir ačiū už žuvis)",2000,272
-177,užs.,"Alan Dean Foster, Ursula K. Le Guin, Robert Sheckley","Galingųjų palikimas (Vėrinys, Šalin rankas!, Minties kvapas)",2000,240
+177,1,"Alan Dean Foster, Ursula K. Le Guin, Robert Sheckley","Galingųjų palikimas (Vėrinys, Šalin rankas!, Minties kvapas)",2000,240
 178,1,Terry Pratchett,Magijos spalva,2000,224
 179,1,Jack L. Chalker,Čozų raizginys,2000,224
 180,1,Chris Bunch,Nematomas karys,2000,224
-181,užs.,"Margaret Weis, Don Perrin",Juodosios žemės riteriai (1 dalis),2000,240
+181,1,"Margaret Weis, Don Perrin",Juodosios žemės riteriai (1 dalis),2000,240
 182,1,"Margaret Weis, Don Perrin",Juodosios žemės riteriai (2 dalis),2000,240
 183,1,Alan Dean Foster ,Našlaičio žvaigždė,2000,242
 184,1,Robert E. Howard,Konanas: drakono valanda,2000,224
@@ -193,7 +193,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 192,1,Sergej Lukjanenko,Atspindžių labirintas,2001,288
 193,1,"Chris Bunch, Andre Norton",Rojaus medžioklė (Tegyvuoja lordas Koras!),2001,240
 194,1,Chris Bunch,Dievybės šešėlis,2001,224
-195,užs.,Sherri S. Tepper,Dievų saulėlydis (1 dalis),2001,256
+195,1,Sherri S. Tepper,Dievų saulėlydis (1 dalis),2001,256
 196,1,Sherri S. Tepper,Dievų saulėlydis (2 dalis),2001,304
 197,1,Poul Anderson,Šėtono pasaulis,2001,240
 198,1,Harry Harrison,"Bilis, galaktikos didvyris (ir dar 5 apsakymai)",2001,240
@@ -213,7 +213,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 212,1,William Dietz,Ateivių premija,2001,224
 213,1,Philip Jose Farmer,Akmeninis dievas,2001,240
 214,užs.,"Roger Zelazny, Thomas T. Thomas",Lokio kaukė,2001,272
-215,užs.,"Harry Harrison, Gordon Dickson, Dmitrij Skiriuk","Gelbėjimosi laivas (Kai dievai patys gieda ditirambus, Taupyklė)",2001,224
+215,1,"Harry Harrison, Gordon Dickson, Dmitrij Skiriuk","Gelbėjimosi laivas (Kai dievai patys gieda ditirambus, Taupyklė)",2001,224
 216,užs.,Gregory Benford,Didžioji dangaus upė,2001,320
 217,1,Terry Pratchett,Šviesa fantastiška,2000,224
 218,1,Robert Silverberg,Žmogus labirinte (ir dar 2 apsakymai),2001,224
@@ -228,7 +228,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 227,užs.,Ursula K. Le Guin,Žemjūrės burtininkas,2002,224
 228,1,Greg Egan,Karantinas,2002,240
 229,,Ursula K. Le Guin,Atuano kapai (ir dar 3 apsakymai),2002,224
-230,užs.,Clifford D. Simak,"Galaktikos bičiuliai, (7 apsakymai)",2002,240
+230,1,Clifford D. Simak,"Galaktikos bičiuliai, (7 apsakymai)",2002,240
 231,1,Gregory Benford,Šviesos vandenynas,2002,320
 232,užs.,Anne McCaffrey,Drakono skrydis,2002,256
 233,1,Piers Anthony,Chtonas,2002,224
@@ -496,6 +496,6 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 495,,Sergej Antonov,Stabilizatorius. Minskas 2041,2014,284
 496,,John Gregory Betancourt,Chaosas ir Amberas,2014,272
 497,1,Philip K. Dick,Žmogus aukštoje pilyje,2014,254
-Viso:,392,,,,
-Liko:,105,,,,
+Viso:,410,,,,
+Liko:,87,,,,
 Iešk:,,,,,

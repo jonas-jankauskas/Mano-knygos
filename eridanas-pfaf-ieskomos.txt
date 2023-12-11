@@ -1,0 +1,97 @@
+170  204  229  240  241  243  249  265  271  275
+276  280  283  284  290  291  293  294  296  302
+306  309  320  323  330  335  340  343  344  345
+349  350  351  354  356  359  360  361  362  365
+366  368  370  374  375  378  389  392  397  398
+403  405  410  422  428  434  440  445  447  448
+449  451  452  455  459  461  463  467  468  470
+471  472  473  474  476  477  481  482  483  484
+485  487  488  492  493  495  496
+
+170 -- Robert E. Howard	Konanas
+204 -- Harry Harrison	Plieninė žiurkė spąstuose
+229 -- Ursula K. Le Guin	Atuano kapai (ir dar 3 apsakymai)
+240 -- Harry Harrison	Mirties planeta ir žmonijos priešai
+241 -- Clifford D. Simak, J. G. Ballard	Likimo įkaitai (Krištolo žmogus) 
+243 -- Frank Herbert	Kopa (1 dalis)
+249 -- Colin Wilson, Net Prickley	Pasiuntinys
+265 -- Glen Cook	Šešėlių žaidimai
+271 -- Glen Cook	Sidabrinis smaigas
+275 -- Harry Harrison	Į vakarus nuo Edeno (1 dalis)
+276 -- Harry Harrison	Į vakarus nuo Edeno (2 dalis)
+280 -- Clifford D. Simak	Tai, kas lemta
+283 -- David Gemmell	Vilko irštva
+284 -- Lloyd Biggle Jr., Robert Silverberg	Paminklas (Gimęs su mirusiais)
+290 -- Sergej Lukjanenko	Nakties sargyba
+291 -- Neal Stephenson	Lavina (1 dalis)
+293 -- Sergej Lukjanenko, Vladimir Vasiljev	Dienos sargyba
+294 -- Jack L. Chalker	Prieš laiko tėkmę
+296 -- David Gemmell	Karalius anapus vartų
+302 -- Sergej Lukjanenko	Sutemų sargyba
+306 -- Sergej Lukjanenko	Spektras (1 dalis)
+309 -- Robert Sheckley	Omega (ir dar 4 apsakymai)
+320 -- David Gemmell	Mirties įbrolis
+323 -- Sergej Lukjanenko	Prieš rytą
+330 -- Lois McMaster Bujold	Sielų žiedas
+335 -- Vladimir Vasiljev	Peterburgo sargyba (2 apsakymai)
+340 -- Richard K. Morgan	Skaitmeninės sąmonės (2 dalis)
+343 -- Sergej Lukjanenko	Genomas
+344 -- Robert Charles Wilson, Samuel R. Delany	Biosfera (Žvaigždžių duobė)
+345 -- Elizabeth A. Lynn	Sardonikso tinklas (1 dalis)
+349 -- Glen Cook	Drakonas niekada nemiega
+350 -- Clifford D. Simak	Blogio irštva
+351 -- Francis Carsac, Douglas Adams, Kiril Benediktov	Kosmoso robinzonai, (Zafodas lošia saugiai, Šeštosios saulės aušra)
+354 -- Arkadij Strugackij, Boris Strugackij	Vabalas skruzdėlyne (5 šaukšteliai eleksyro)
+356 -- William R. Forstchen	Pražuvęs pulkas
+359 -- Alastair Reynolds	Bedugnės miestas (1 dalis)
+360 -- Alastair Reynolds	Bedugnės miestas (2 dalis)
+361 -- Vladimir Vasiljev	Ašmenys
+362 -- Glen Cook	Niūrūs laikai
+365 -- David Gemmell	Vilkas šešėlyje
+366 -- Colin Wilson	Filosofinis akmuo
+368 -- David Gemmell	Stebuklingieji Sipstrassi
+370 -- Richard A. Knaak	Diablo: kraujo paveldas
+374 -- Vladimir Vasiljev, Dale Bailey, Sergej Lukjanenko	Visagalio akis (Pasaulio pabaiga, kokią mes ją įsivaizduojame, Negrabaila)
+375 -- Barrington J. Bayley, Poul Anderson	Dzen ginklas (Pradžia)
+378 -- Glen Cook	Tamsa - tai ji (1 dalis)
+389 -- Richard K. Morgan	Pražuvę angelai
+392 -- Richard A. Knaak	Diablo: šešėlio spąstai
+397 -- Aleksandr Gromov	Feodalas
+398 -- William R. Forstchen	Amžinoji sąjunga (1 dalis)
+403 -- Aleksej Kalugin	Ne toks tas velnias baisus
+405 -- Robert Charles Wilson	Kokonas
+410 -- Richard A. Knaak	Diablo: voro mėnulis
+422 -- Dan Abnett	Inkvizitorius: eretikų kryžius
+428 -- Steve White	Demonų vartai
+434 -- Dave Duncan	Paženklinti prakeiksmu
+440 -- Jack McDevitt	Ieškotojas
+445 -- Vladimir Vasiljev, Ana Kitajeva	Einantys į naktį
+447 -- Clive Cussler	Atlantidos kodas
+448 -- Michael Swanwick	Geležinio drakono duktė
+449 -- Roger MacBride Allen	Charono žiedas
+451 -- Gary Gibson	Angelų stotys
+452 -- Tobias S. Buckell	Krištolinis lietus
+455 -- Stanislaw Lem	Žlugimas
+459 -- John Meaney	Kaulų daina
+461 -- Roger MacBride Allen	Perskelta sfera
+463 -- Isaac Asimov	Fondo preliudija
+467 -- Isaac Asimov	Pakeliui į fondą
+468 -- Ken Macleod	Įkandin Niutono
+470 -- Michael Flynn	Eifelheimas
+471 -- Damien Broderick	Žaidžiantys dievus
+472 -- Damien Broderick	K-mašinos
+473 -- W. Michael Gear	Artefaktas
+474 -- Greg Bear	Dievo kalvė
+476 -- Harry Turtledove	Bizantijos agentas
+477 -- Michael Moorcock	Brangakmenis kaukolėje (Pamišusio dievo amuletas,  Aušros kalavijas)
+481 -- Julij Burkin	Smaragdinės rasos
+482 -- Tim Powers	Magiškos vilnys
+483 -- Larry Niven, Jerry Pournelle, Michael Flynn	Puolę angelai
+484 -- Glen Cook	Visų naktų tamsa
+485 -- John Norman	Goro planeta
+487 -- Mike Resnick ,Paul Ash	Antrasis kontaktas (Didysis kardas) 
+488 -- John Norman	Goro karaliai žyniai
+492 -- Harry Turtledove	Dingęs legionas
+493 -- Harry Harrison	Plieninės žiurkės sugrįžimas
+495 -- Sergej Antonov	Stabilizatorius. Minskas 2041
+496 -- John Gregory Betancourt	Chaosas ir Amberas
