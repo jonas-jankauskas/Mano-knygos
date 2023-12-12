@@ -215,7 +215,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 211,1,William Dietz,Imperijos premija,2001,256
 212,1,William Dietz,Ateivių premija,2001,224
 213,1,Philip Jose Farmer,Akmeninis dievas,2001,240
-214,užs.,"Roger Zelazny, Thomas T. Thomas",Lokio kaukė,2001,272
+214,1,"Roger Zelazny, Thomas T. Thomas",Lokio kaukė,2001,272
 215,1,"Harry Harrison, Gordon Dickson, Dmitrij Skiriuk","Gelbėjimosi laivas (Kai dievai patys gieda ditirambus, Taupyklė)",2001,224
 216,1,Gregory Benford,Didžioji dangaus upė,2001,320
 217,1,Terry Pratchett,Šviesa fantastiška,2000,224
@@ -228,7 +228,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 224,1,William Dietz,Mak-Keido premija,2002,240
 225,1,John E. Stith,Neverendo paslaptys,2002,256
 226,1,Harry Harrison,"Bilis, galaktikos didvyris, robotų vergų planetoje (Kapitonas Bedlamas, Kapitonas Honarijus Harplejeris)",2002,224
-227,užs.,Ursula K. Le Guin,Žemjūrės burtininkas,2002,224
+227,1,Ursula K. Le Guin,Žemjūrės burtininkas,2002,224
 228,1,Greg Egan,Karantinas,2002,240
 229,,Ursula K. Le Guin,Atuano kapai (ir dar 3 apsakymai),2002,224
 230,1,Clifford D. Simak,"Galaktikos bičiuliai, (7 apsakymai)",2002,240
@@ -236,14 +236,14 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 232,1,Anne McCaffrey,Drakono skrydis,2002,256
 233,1,Piers Anthony,Chtonas,2002,224
 234,1,"Isaac Asimov, Michael Moorcock",Kosmoso upės (Nuolatinio kitimo būsena) ,2002,224
-235,užs.,Ursula K. Le Guin,Tolimiausias krantas (ir dar 2 apsakymai) ,2002,240
+235,1,Ursula K. Le Guin,Tolimiausias krantas (ir dar 2 apsakymai) ,2002,240
 236,1,"Gerard Klein, Michael Demuth, Jolie Verlange","Karo dievai (Svetima vasara, Burbulai)",2002,224
 237,1,Anne McCaffrey,Drakono klajonės,2002,304
 238,1,"Piers Anthony, Harlan Ellison, Gordon Dickson","Ftoras (Pasaulių žudikas, Apsiaustas ir lazda)",2002,240
 239,1,"Isaac Asimov, Robert A. Heilein",Žvaigždės lyg dulkės (Džeris buvo žmogus),2002,234
 240,,Harry Harrison,Mirties planeta ir žmonijos priešai,2002,272
 241,,"Clifford D. Simak, J. G. Ballard",Likimo įkaitai (Krištolo žmogus) ,2002,224
-242,užs.,Colin Wilson,Citadelė,2002,288
+242,1,Colin Wilson,Citadelė,2002,288
 243,,Frank Herbert,Kopa (1 dalis),2002,304
 244,1,Frank Herbert,Kopa (2 dalis),2002,288
 245,1,"Michael Moorcock, Harlan Ellison","Amžinybės ritualai (Pabėgimas į žvaigždes, Regėjimas)",2002,208
@@ -470,7 +470,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 466,1,Tim Lebbon,Puolęs dievas,2009,320
 467,,Isaac Asimov,Pakeliui į fondą,2009,304
 468,,Ken Macleod,Įkandin Niutono,2009,304
-469,užs.,David Gemmell,Juodas Mėnulis,2009,304
+469,1,David Gemmell,Juodas Mėnulis,2009,304
 470,,Michael Flynn,Eifelheimas,2010,400
 471,,Damien Broderick,Žaidžiantys dievus,2010,304
 472,,Damien Broderick,K-mašinos,2010,304
@@ -490,8 +490,8 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 486,1,Glen Cook,Tamsos vaikas,2011,288
 487,,"Mike Resnick ,Paul Ash",Antrasis kontaktas (Didysis kardas) ,2011,320
 488,,John Norman,Goro karaliai žyniai,2011,304
-489,užs.,Bob Shaw,Orbitsvilis (Šuolis naktin),2012,320
-490,1,Glen Cook,Tamsa užslenka,2012,384
+489,1,Bob Shaw,Orbitsvilis (Šuolis naktin),2012,320
+490,2,Glen Cook,Tamsa užslenka,2012,384
 491,1,Norman Spinrad,Geležinis sapnas,2012,272
 492,,Harry Turtledove,Dingęs legionas,2013,336
 493,,Harry Harrison,Plieninės žiurkės sugrįžimas,2013,240
@@ -501,4 +501,4 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 497,1,Philip K. Dick,Žmogus aukštoje pilyje,2014,254
 Viso:,413,,,,
 Iešk.:,87,,,,
-Užs.:,6,,,,
+Užs.:,0,,,,
