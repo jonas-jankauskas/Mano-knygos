@@ -345,12 +345,12 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 341,1,Barrington J. Bayley,Žvaigždžių virusas (Didysis ratas),2005,256
 342,1,Andrej Valentinov,Dezertyras,2005,320
 343,,Sergej Lukjanenko,Genomas,2006,320
-344,,"Robert Charles Wilson, Samuel R. Delany",Biosfera (Žvaigždžių duobė),2005,256
+344,užs.,"Robert Charles Wilson, Samuel R. Delany",Biosfera (Žvaigždžių duobė),2005,256
 345,,Elizabeth A. Lynn,Sardonikso tinklas (1 dalis),2005,288
 346,1,Elizabeth A. Lynn,Sardonikso tinklas (2 dalis),2005,272
 347,1,Aleksej Baron,Vyresni už mus,2005,320
 348,1,Ken Hood,Demono kardas,2005,320
-349,,Glen Cook,Drakonas niekada nemiega,2005,368
+349,užs.,Glen Cook,Drakonas niekada nemiega,2005,368
 350,,Clifford D. Simak,Blogio irštva,2005,272
 351,,"Francis Carsac, Douglas Adams, Kiril Benediktov","Kosmoso robinzonai, (Zafodas lošia saugiai, Šeštosios saulės aušra)",2005,304
 352,1,Neal Asher,Tinklo įkaitas,2005,378
@@ -361,13 +361,13 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 357,1,Sergej Lukjanenko,Juodraštis,2006,320
 358,1,"Mike Resnick, Rodrigo Garcia y Robertson",Juodoji ledi (Ilga kelionė namo),2006,304
 359,,Alastair Reynolds,Bedugnės miestas (1 dalis),2006,320
-360,,Alastair Reynolds,Bedugnės miestas (2 dalis),2006,304
+360,užs.,Alastair Reynolds,Bedugnės miestas (2 dalis),2006,304
 361,,Vladimir Vasiljev,Ašmenys,2006,336
 362,,Glen Cook,Niūrūs laikai,2006,304
 363,1,Andreas Eschbach,Skaitmeninis Jėzus: Pirma knyga,2006,288
 364,1,Andreas Eschbach,Skaitmeninis Jėzus: Antra knyga,2006,288
 365,,David Gemmell,Vilkas šešėlyje,2006,304
-366,,Colin Wilson,Filosofinis akmuo,2006,272
+366,užs.,Colin Wilson,Filosofinis akmuo,2006,272
 367,1,Stanislaw Lem,Edenas,2006,272
 368,,David Gemmell,Stebuklingieji Sipstrassi,2006,256
 369,1,Sergej Lukjanenko,Paskutinė sargyba,2006,320
@@ -399,7 +399,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 395,1,Jack L. Chalker,Šokančių dievų demonai,2007,288
 396,1,Jadrien Bell,A.D. 999,2007,288
 397,,Aleksandr Gromov,Feodalas,2007,320
-398,,William R. Forstchen,Amžinoji sąjunga (1 dalis),2007,272
+398,užs.,William R. Forstchen,Amžinoji sąjunga (1 dalis),2007,272
 399,1,"William R. Forstchen, Ben Bova",Amžinoji sąjunga (2 dalis ir Olimpo kalnas),2007,304
 400,1,Michael McCollum,Šuolis į Antarį,2007,288
 401,1,Ken MacLeod,Pažinti pasaulį,2007,320
@@ -449,8 +449,8 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 445,,"Vladimir Vasiljev, Ana Kitajeva",Einantys į naktį,2008,400
 446,1,Robert A. Heinlein,Šlovės kelias,2008,320
 447,,Clive Cussler,Atlantidos kodas,2007,400
-448,,Michael Swanwick,Geležinio drakono duktė,2009,320
-449,,Roger MacBride Allen,Charono žiedas,2009,320
+448,užs.,Michael Swanwick,Geležinio drakono duktė,2009,320
+449,užs.,Roger MacBride Allen,Charono žiedas,2009,320
 450,1,Richard Morgan,Įniršio formos,2009,432
 451,,Gary Gibson,Angelų stotys,2009,320
 452,,Tobias S. Buckell,Krištolinis lietus,2009,320
@@ -469,7 +469,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 465,1,Neal Asher,Pradorų palydovas,2009,320
 466,1,Tim Lebbon,Puolęs dievas,2009,320
 467,,Isaac Asimov,Pakeliui į fondą,2009,304
-468,,Ken Macleod,Įkandin Niutono,2009,304
+468,užs.,Ken Macleod,Įkandin Niutono,2009,304
 469,1,David Gemmell,Juodas Mėnulis,2009,304
 470,,Michael Flynn,Eifelheimas,2010,400
 471,,Damien Broderick,Žaidžiantys dievus,2010,304
