@@ -162,7 +162,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 158,1,Marion Zimmer Bradley,Kasandra (1 dalis),2000,256
 159,1,Marion Zimmer Bradley,Kasandra (2 dalis),2000,256
 160,1,Andre Norton,Maro laivas,2000,240
-161,1,Bill Baldwin,Vairininkas,2000,256
+161,2,Bill Baldwin,Vairininkas,2000,256
 162,1,Charles Sheffield,Vasaros potvynis,2000,240
 163,1,Charles Sheffield,Divergencija,2000,240
 164,2,"Colin Kapp, Bob Shaw, Wolfram Kober, Jacek Sawaszkiewicz","Chaoso ginklas (Amfiteatras, Karas, Mes leidome jiems išskristi)",2000,240
@@ -205,7 +205,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 201,1,Vernor Vinge,Gelmė danguje (2 dalis),2001,256
 202,1,Vernor Vinge,Gelmė danguje (3 dalis),2001,256
 203,1,Paul Cook,Saulės tvirtovė,2001,288
-204,užs.,Harry Harrison,Plieninė žiurkė spąstuose,2001,240
+204,1,Harry Harrison,Plieninė žiurkė spąstuose,2001,240
 205,1,Alan Dean Foster ,Tranksų visata,2001,240
 206,1,Robert J. Sawyer,Mirtinas Eksperimentas,2001,272
 207,1,Sergej Lukjanenko,Netikri veidrodžiai,2001,304
@@ -239,13 +239,13 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 235,1,Ursula K. Le Guin,Tolimiausias krantas (ir dar 2 apsakymai) ,2002,240
 236,1,"Gerard Klein, Michael Demuth, Jolie Verlange","Karo dievai (Svetima vasara, Burbulai)",2002,224
 237,1,Anne McCaffrey,Drakono klajonės,2002,304
-238,1,"Piers Anthony, Harlan Ellison, Gordon Dickson","Ftoras (Pasaulių žudikas, Apsiaustas ir lazda)",2002,240
+238,2,"Piers Anthony, Harlan Ellison, Gordon Dickson","Ftoras (Pasaulių žudikas, Apsiaustas ir lazda)",2002,240
 239,1,"Isaac Asimov, Robert A. Heilein",Žvaigždės lyg dulkės (Džeris buvo žmogus),2002,234
-240,,Harry Harrison,Mirties planeta ir žmonijos priešai,2002,272
-241,,"Clifford D. Simak, J. G. Ballard",Likimo įkaitai (Krištolo žmogus) ,2002,224
+240,1,Harry Harrison,Mirties planeta ir žmonijos priešai,2002,272
+241,1,"Clifford D. Simak, J. G. Ballard",Likimo įkaitai (Krištolo žmogus) ,2002,224
 242,1,Colin Wilson,Citadelė,2002,288
-243,,Frank Herbert,Kopa (1 dalis),2002,304
-244,1,Frank Herbert,Kopa (2 dalis),2002,288
+243,1,Frank Herbert,Kopa (1 dalis),2002,304
+244,2,Frank Herbert,Kopa (2 dalis),2002,288
 245,1,"Michael Moorcock, Harlan Ellison","Amžinybės ritualai (Pabėgimas į žvaigždes, Regėjimas)",2002,208
 246,1,Jack L. Chalker,Velniškas sandėris,2002,288
 247,1,William Dietz,Tremties planeta,2002,240
@@ -266,18 +266,18 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 262,1,John Brosnan,Padangių lordai,2003,288
 263,1,John Brosnan,Padangių lordų karas,2003,224
 264,1,Simon Clark,Trifidų naktis,2003,320
-265,,Glen Cook,Šešėlių žaidimai,2003,288
+265,1,Glen Cook,Šešėlių žaidimai,2003,288
 266,1,William Dietz,Naujasis legionas,2003,320
 267,1,Viktor Burcev,Iblio veidrodis,2003,288
 268,1,John Brosnan,Padangių lordų žūtis,2003,240
 269,1,David Gemmell,Pašalietis,2003,256
 270,1,Bill Baldwin,Galaktikos konvojus,2003,304
-271,,Glen Cook,Sidabrinis smaigas,2003,272
+271,1,Glen Cook,Sidabrinis smaigas,2003,272
 272,1,Poul Anderson,Žemės imperijos agentas,2003,256
 273,1,John Barnes,Erdvėlaikio spąstuose,2003,256
 274,1,Marek Oramus,Miegantys nugalėtojai,2003,224
-275,,Harry Harrison,Į vakarus nuo Edeno (1 dalis),2003,240
-276,,Harry Harrison,Į vakarus nuo Edeno (2 dalis),2003,272
+275,1,Harry Harrison,Į vakarus nuo Edeno (1 dalis),2003,240
+276,1,Harry Harrison,Į vakarus nuo Edeno (2 dalis),2003,272
 277,1,Mike Resnick,Našliadirbys,2003,224
 278,1,Eric Brown,Prietema,2003,256
 279,1,Glen Cook,Plieniniai sapnai,2003,288
@@ -285,19 +285,19 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 281,1,"Arkadij Strugackij, Boris Strugackij",Gyvenama sala,2003,288
 282,1,Alan Dean Foster,Apgaulingas veidrodis,2003,240
 283,1,David Gemmell,Vilko irštva,2003,272
-284,rez.,"Lloyd Biggle Jr., Robert Silverberg",Paminklas (Gimęs su mirusiais),2003,272
+284,1,"Lloyd Biggle Jr., Robert Silverberg",Paminklas (Gimęs su mirusiais),2003,272
 285,1,"Lawrence Watt-Evans, John Varley","Tamsiosios pusės miestas (Sudie, Robinzonai Kruzai)",2003,256
 286,1,Timothy Zahn,„Ikaro“ medžioklė,2003,320
 287,1,"Mike Resnick, Robert Reed",Atgimęs našliadirbys (Garbės svečias),2003,240
 288,1,Christopher Rowley,Žvaigždžių kūjis,2003,272
 289,1,Aleksandr Gromov,Tūkstantis ir viena diena,2004,240
-290,,Sergej Lukjanenko,Nakties sargyba,2004,320
+290,1,Sergej Lukjanenko,Nakties sargyba,2004,320
 291,,Neal Stephenson,Lavina (1 dalis),2004,240
 292,1,Neal Stephenson,Lavina (2 dalis),2004,224
-293,rez.,"Sergej Lukjanenko, Vladimir Vasiljev",Dienos sargyba,2004,320
-294,,Jack L. Chalker,Prieš laiko tėkmę,2004,272
+293,1,"Sergej Lukjanenko, Vladimir Vasiljev",Dienos sargyba,2004,320
+294,1,Jack L. Chalker,Prieš laiko tėkmę,2004,272
 295,1,James P. Hogan,Kūrėjo kodeksas,2004,288
-296,1,David Gemmell,Karalius anapus vartų,2004,288
+296,2,David Gemmell,Karalius anapus vartų,2004,288
 297,1,Vladimir Vasiljev,Raganius iš didžiojo Kijevo,2004,272
 298,1,David Weber,„Basilisko“ stotyje,2004,304
 299,1,David Gemmell,Prarastieji didvyriai,2004,240
@@ -310,7 +310,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 306,1,Sergej Lukjanenko,Spektras (1 dalis),2004,288
 307,1,Sergej Lukjanenko,Spektras (2 dalis) (Skaidrūs vitražai),2004,272
 308,1,Jack L. Chalker,Srauto ir užuovėjų valdovai,2004,320
-309,,Robert Sheckley,Omega (ir dar 4 apsakymai),2004,240
+309,1,Robert Sheckley,Omega (ir dar 4 apsakymai),2004,240
 310,1,David Gemmell,Druso kronikos,2004,320
 311,1,Robert Charles Wilson,Chronolitai,2004,240
 312,1,Arthur C. Clarke,"Tolimosios žemės dainos, (ir dar 3 apsakymai)",2004,288
@@ -321,7 +321,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 317,2,Harry Harrison,Žiema Edene (1 dalis),2004,256
 318,2,Harry Harrison,Žiema Edene (2 dalis ir dar 3 apsakymai) ,2004,240
 319,1,Sviatoslav Loginov,Amžinoji šviesa,2004,252
-320,1,David Gemmell,Mirties įbrolis,2004,304
+320,2,David Gemmell,Mirties įbrolis,2004,304
 321,1,David Gemmell,Baltasis vilkas,2005,320
 322,1,Sergej Lukjanenko,Šalčio krantai,2005,320
 323,,Sergej Lukjanenko,Prieš rytą,2005,320
@@ -344,7 +344,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 340,1,Richard K. Morgan,Skaitmeninės sąmonės (2 dalis),2005,272
 341,1,Barrington J. Bayley,Žvaigždžių virusas (Didysis ratas),2005,256
 342,1,Andrej Valentinov,Dezertyras,2005,320
-343,rez.,Sergej Lukjanenko,Genomas,2006,320
+343,1,Sergej Lukjanenko,Genomas,2006,320
 344,1,"Robert Charles Wilson, Samuel R. Delany",Biosfera (Žvaigždžių duobė),2005,256
 345,,Elizabeth A. Lynn,Sardonikso tinklas (1 dalis),2005,288
 346,1,Elizabeth A. Lynn,Sardonikso tinklas (2 dalis),2005,272
@@ -357,12 +357,12 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 353,1,Doris Piserchia,Erdvėvaikšta,2006,256
 354,,"Arkadij Strugackij, Boris Strugackij",Vabalas skruzdėlyne (5 šaukšteliai eleksyro),2006,240
 355,1,Vadim Panov,Maskvos klubas,2006,368
-356,,William R. Forstchen,Pražuvęs pulkas,2006,352
+356,1,William R. Forstchen,Pražuvęs pulkas,2006,352
 357,1,Sergej Lukjanenko,Juodraštis,2006,320
 358,1,"Mike Resnick, Rodrigo Garcia y Robertson",Juodoji ledi (Ilga kelionė namo),2006,304
 359,,Alastair Reynolds,Bedugnės miestas (1 dalis),2006,320
 360,1,Alastair Reynolds,Bedugnės miestas (2 dalis),2006,304
-361,rez.,Vladimir Vasiljev,Ašmenys,2006,336
+361,1,Vladimir Vasiljev,Ašmenys,2006,336
 362,,Glen Cook,Niūrūs laikai,2006,304
 363,1,Andreas Eschbach,Skaitmeninis Jėzus: Pirma knyga,2006,288
 364,1,Andreas Eschbach,Skaitmeninis Jėzus: Antra knyga,2006,288
@@ -462,7 +462,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 458,1,Timothy Zahn,Angelmasė,2009,352
 459,1,John Meaney,Kaulų daina,2009,320
 460,1,Charles Sheffield,Protų samplaika,2009,320
-461,užs.,Roger MacBride Allen,Perskelta sfera,2009,320
+461,1,Roger MacBride Allen,Perskelta sfera,2009,320
 462,1,Michael Skott Rohan,Paskui aušrą,2009,304
 463,,Isaac Asimov,Fondo preliudija,2009,304
 464,1,Vernor Vinge,Kur baigiasi vaivorykštės,2009,352
@@ -493,8 +493,8 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 489,1,Bob Shaw,Orbitsvilis (Šuolis naktin),2012,320
 490,2,Glen Cook,Tamsa užslenka,2012,384
 491,1,Norman Spinrad,Geležinis sapnas,2012,272
-492,,Harry Turtledove,Dingęs legionas,2013,336
-493,užs.,Harry Harrison,Plieninės žiurkės sugrįžimas,2013,240
+492,1,Harry Turtledove,Dingęs legionas,2013,336
+493,1,Harry Harrison,Plieninės žiurkės sugrįžimas,2013,240
 494,1,John Gregory Betancourt,Ambero aušra,2013,224
 495,užs.,Sergej Antonov,Stabilizatorius. Minskas 2041,2014,284
 496,,John Gregory Betancourt,Chaosas ir Amberas,2014,272
