@@ -331,7 +331,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 327,1,Leonid Aliochin,Puolę multiversumo angelai (1 dalis),2005,304
 328,1,Leonid Aliochin,Puolę multiversumo angelai (2 dalis),2005,320
 329,1,Vladimir Vasiljev,Laukinių sunkvežimių medžioklė,2005,320
-330,,Lois McMaster Bujold,Sielų žiedas,2005,288
+330,1,Lois McMaster Bujold,Sielų žiedas,2005,288
 331,1,Connie Willis,Pasaulio pabaigos knyga (1 dalis),2005,320
 332,1,Connie Willis,Pasaulio pabaigos knyga (2 dalis),2005,320
 333,1,Alastair Reynolds,Apreiškimų erdvė (1 dalis),2005,304
@@ -351,8 +351,8 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 347,1,Aleksej Baron,Vyresni už mus,2005,320
 348,1,Ken Hood,Demono kardas,2005,320
 349,1,Glen Cook,Drakonas niekada nemiega,2005,368
-350,,Clifford D. Simak,Blogio irštva,2005,272
-351,,"Francis Carsac, Douglas Adams, Kiril Benediktov","Kosmoso robinzonai, (Zafodas lošia saugiai, Šeštosios saulės aušra)",2005,304
+350,1,Clifford D. Simak,Blogio irštva,2005,272
+351,1,"Francis Carsac, Douglas Adams, Kiril Benediktov","Kosmoso robinzonai, (Zafodas lošia saugiai, Šeštosios saulės aušra)",2005,304
 352,1,Neal Asher,Tinklo įkaitas,2005,378
 353,1,Doris Piserchia,Erdvėvaikšta,2006,256
 354,,"Arkadij Strugackij, Boris Strugackij",Vabalas skruzdėlyne (5 šaukšteliai eleksyro),2006,240
@@ -423,7 +423,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 419,1,Timothy Zahn,Žvaigždžių raiteliai,2008,320
 420,1,Larry Niven,Žiedinio pasaulio inžinieriai,2008,352
 421,1,Clifford D. Simak,Svečiai (Įkalintas akmenyje),2008,288
-422,,Dan Abnett,Inkvizitorius: eretikų kryžius,2008,336
+422,užs.,Dan Abnett,Inkvizitorius: eretikų kryžius,2008,336
 423,1,Michael Marshall Smith,Tik į priekį,2008,304
 424,1,Philip Jose Farmer,Lavalitinis pasaulis (Anapus Žemės vartų),2008,336
 425,1,Karl Schroeder,Ventas (pirma knyga),2007,304
@@ -441,7 +441,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 437,1,Steve White,Titanų kalvė,2008,272
 438,1,Neal Asher,Valstybės siena,2008,384
 439,1,Fred Saberhagen,Plieninis Šiva,2008,288
-440,,Jack McDevitt,Ieškotojas,2008,384
+440,1,Jack McDevitt,Ieškotojas,2008,384
 441,1,Simon Green,Kraujas ir garbė,2008,304
 442,1,Hal Clement,"Ugnies ciklas (Kritinis taškas, Apsikeitimo greitis)",2008,304
 443,1,Dave Duncan,Šešėlis,2008,288
@@ -472,7 +472,7 @@ Nr. ,Egz.,Autorius ,Pavadinimas ,Metai ,Puslapiai
 468,1,Ken Macleod,Įkandin Niutono,2009,304
 469,1,David Gemmell,Juodas Mėnulis,2009,304
 470,,Michael Flynn,Eifelheimas,2010,400
-471,,Damien Broderick,Žaidžiantys dievus,2010,304
+471,užs.,Damien Broderick,Žaidžiantys dievus,2010,304
 472,1,Damien Broderick,K-mašinos,2010,304
 473,,W. Michael Gear,Artefaktas,2010,368
 474,,Greg Bear,Dievo kalvė,2010,320
